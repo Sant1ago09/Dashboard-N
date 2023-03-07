@@ -1,0 +1,512 @@
+{
+  "01":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Villa_de_Leyva",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "02/01/2023 14:37",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "3",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "02":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Villa_de_Leyva",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "02/01/2023 15:16",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "3",
+    "Demanda no atendida [KWh]": "44,75"
+  },
+  "03":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Villa_de_Leyva",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "03/01/2023 9:39",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "9",
+    "Demanda no atendida [KWh]": "21,67"
+  },
+  "04":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "03/01/2023 13:00",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "24",
+    "Demanda no atendida [KWh]": "63,68"
+  },
+  "05":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "04/01/2023 7:12",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "7",
+    "Demanda no atendida [KWh]": "184,47"
+  },
+  "06":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "04/01/2023 7:30",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "5",
+    "Demanda no atendida [KWh]": "6,48"
+  },
+  "07":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "04/01/2023 13:15",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "24",
+    "Demanda no atendida [KWh]": "161,15"
+  },
+  "08":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "04/01/2023 16:23",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "22",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "09":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "05/01/2023 12:49",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "27",
+    "Demanda no atendida [KWh]": "13,45"
+  },
+  "10":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "05/01/2023 14:53",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "24",
+    "Demanda no atendida [KWh]": "136,63"
+  },
+  "11":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "05/01/2023 15:02",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "22",
+    "Demanda no atendida [KWh]": "336,04"
+  },
+  "12":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "05/01/2023 17:14",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "19",
+    "Demanda no atendida [KWh]": "0,69"
+  },
+  "13":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Arcabuco",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "05/01/2023 17:30",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "22",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "14":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "05/01/2023 18:16",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "18",
+    "Demanda no atendida [KWh]": "57,19"
+  },
+  "15":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "06/01/2023 8:19",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "7",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "16":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "06/01/2023 10:00",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "3",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "17":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Villa_de_Leyva",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "06/01/2023 14:55",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "2",
+    "Demanda no atendida [KWh]": "34,48"
+  },
+  "18":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "08/01/2023 15:00",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "21",
+    "Demanda no atendida [KWh]": "337,5"
+  },
+  "19":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "09/01/2023 8:18",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "9",
+    "Demanda no atendida [KWh]": "43,76"
+  },
+  "20":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "10/01/2023 8:15",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "6",
+    "Demanda no atendida [KWh]": "55,37"
+  },
+  "21":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "10/01/2023 16:07",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "22",
+    "Demanda no atendida [KWh]": "39,4"
+  },
+  "22":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "10/01/2023 19:40",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "21",
+    "Demanda no atendida [KWh]": "1,47"
+  },
+  "23":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "11/01/2023 6:20",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "12",
+    "Demanda no atendida [KWh]": "58,38"
+  },
+  "24":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "12/01/2023 17:45",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "21",
+    "Demanda no atendida [KWh]": "62,36"
+  },
+  "25":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "13/01/2023 7:25",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "7",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "26":
+  {
+    "Zona": "Sur",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "13/01/2023 8:28",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "9",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "27":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "13/01/2023 9:20",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "7",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "28":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Umbita",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "14/01/2023 8:59",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "6",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "29":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Umbita",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "16/01/2023 9:00",
+    "Causa de falla": "FALLA EN REDES DE DISTRIBUCION",
+    "Duracion de la falla [h]": "8",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "30":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Togui",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "16/01/2023 10:32",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "4",
+    "Demanda no atendida [KWh]": "200,36"
+  },
+  "31":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "17/01/2023 8:43",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "6",
+    "Demanda no atendida [KWh]": "3,22"
+  },
+  "32":
+  {
+    "Zona": "Oriente",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "17/01/2023 17:41",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "24",
+    "Demanda no atendida [KWh]": "31,55"
+  },
+  "33":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "18/01/2023 8:10",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "31",
+    "Demanda no atendida [KWh]": "237,4"
+  },
+  "34":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "18/01/2023 8:24",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "7",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "35":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "18/01/2023 12:45",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "6",
+    "Demanda no atendida [KWh]": "16,52"
+  },
+  "36":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "18/01/2023 13:40",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "4",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "37":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "18/01/2023 14:35",
+    "Causa de falla": "FALLA EN REDES DE DISTRIBUCION",
+    "Duracion de la falla [h]": "26",
+    "Demanda no atendida [KWh]": "76,46"
+  },
+  "38":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "18/01/2023 14:35",
+    "Causa de falla": "FALLA EN REDES DE DISTRIBUCION",
+    "Duracion de la falla [h]": "19",
+    "Demanda no atendida [KWh]": "25,46"
+  },
+  "39":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Ramiriqui",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "18/01/2023 20:47",
+    "Causa de falla": "FALLA EN REDES DE DISTRIBUCION",
+    "Duracion de la falla [h]": "19",
+    "Demanda no atendida [KWh]": "32,15"
+  },
+  "40":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "20/01/2023 8:00",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "4",
+    "Demanda no atendida [KWh]": "17,99"
+  },
+  "41":
+  {
+    "Zona": "Norte",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "20/01/2023 8:00",
+    "Causa de falla": "ARBOL O RAMA SOBRE RED",
+    "Duracion de la falla [h]": "9",
+    "Demanda no atendida [KWh]": "21,87"
+  },
+  "42":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "20/01/2023 8:03",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "24",
+    "Demanda no atendida [KWh]": "21,86"
+  },
+  "43":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "20/01/2023 9:53",
+    "Causa de falla": "FALLA EN REDES DE DISTRIBUCION",
+    "Duracion de la falla [h]": "7",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "44":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "20/01/2023 15:47",
+    "Causa de falla": "FALLA EN REDES DE DISTRIBUCION",
+    "Duracion de la falla [h]": "70",
+    "Demanda no atendida [KWh]": "7,72"
+  },
+  "45":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "20/01/2023 15:53",
+    "Causa de falla": "FALLA EN REDES DE DISTRIBUCION",
+    "Duracion de la falla [h]": "24",
+    "Demanda no atendida [KWh]": "3,02"
+  },
+  "46":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "20/01/2023 16:20",
+    "Causa de falla": "FALLA EN REDES DE DISTRIBUCION",
+    "Duracion de la falla [h]": "2",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "47":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Paipa",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "23/01/2023 7:38",
+    "Causa de falla": "FALLA EN REDES DE DISTRIBUCION",
+    "Duracion de la falla [h]": "5",
+    "Demanda no atendida [KWh]": "91,36"
+  },
+  "48":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Villa_de_Leyva",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "23/01/2023 7:40",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "11",
+    "Demanda no atendida [KWh]": "0"
+  },
+  "49":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Villa_de_Leyva",
+    "Nivel de tension [KV]": "13,2",
+    "Fecha": "23/01/2023 8:03",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "10",
+    "Demanda no atendida [KWh]": "9,97"
+  },
+  "50":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Villa_de_Leyva",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "23/01/2023 11:25",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "6",
+    "Demanda no atendida [KWh]": "28,84"
+  },
+  "51":
+  {
+    "Zona": "Occidente",
+    "Subestacion": "Villa_de_Leyva",
+    "Nivel de tension [KV]": "34,5",
+    "Fecha": "23/01/2023 14:25",
+    "Causa de falla": "CONDICIONES ATMOSFERICAS",
+    "Duracion de la falla [h]": "0",
+    "Demanda no atendida [KWh]": "0"
+  }
+}

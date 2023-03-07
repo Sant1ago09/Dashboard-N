@@ -1,0 +1,179 @@
+body {
+    background: #f1f1f1;
+    margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', Sans-serif;
+	text-align: center;
+
+}
+
+.barra {
+    background: #86E3F8;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+    position: relative;
+}
+
+.dropdown-menu {
+    margin: 17px;
+    background: #262a34;
+    color: black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.568);
+}
+
+.menuperfil {
+    color: white;
+}
+
+
+.insec:hover {
+    background-color: rgba(206, 65, 22, 0.877);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.568);
+}
+
+.user {
+    font-size: 35px;
+}
+
+
+.a{
+
+    padding: 10px;
+	color: #fff;
+	background: #0098cb;
+	width: 320px;
+	margin: 20px auto;
+	margin-top: 0;
+	border: 0;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+input[type= "password"], [type= "text"]{
+	outline: none;
+	padding: 20px;
+	display: block;
+	width: 300px;
+	border-radius: 3px;
+	border: 1px solid #eee;
+	margin: 20px auto;
+	background-color: #86E3F8;
+
+}
+input[type="submit"]{
+	padding: 10px;
+	color: #fff;
+	background: #0098cb;
+	width: 320px;
+	margin: 20px auto;
+	margin-top: 0;
+	border: 0;
+	border-radius: 3px;
+	cursor: pointer; 
+}
+input[type="submit"]:hover{
+	background-color: #00b8eb;
+}
+
+.box{
+    display: inline-block;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-color: #f1f1f1 ;
+    border-radius: 15px;
+    width: 270px;
+    height: 100px;
+}
+
+select{
+
+    background: white;
+    border-radius: 5px;
+    font-family: 'Open Sans', Sans-serif;
+    left: 50px;
+    border: white;
+    
+}
+
+#one{
+
+    position: absolute;
+    left: 55px;
+    top: 67px;
+    width: 270px;
+    height: 140px;
+
+}
+input{
+
+    background: white;
+    border-radius: 5px;
+    font-family: 'Open Sans', Sans-serif;
+    left: 50px;
+    border: white;
+
+
+}
+#two{
+
+    position: absolute;
+    left: 370px;
+    top: 67px;
+    width: 270px;
+    height: 100px;
+
+}
+
+#three{
+
+    position: absolute;
+    left: 685px;
+    top: 67px;
+    width: 270px;
+    height: 100px;
+
+}
+#four{
+
+    position: absolute;
+    left: 1000px;
+    top: 67px;
+    width: 270px;
+    height: 100px;
+
+}
+
+#five{
+
+    position: absolute;
+    left: 55px;
+    top: 235px;
+    height: 150px;
+
+}
+
+#six{
+
+    position: absolute;
+    left: 55px;
+    top: 450px;
+    height: 150px;
+
+}
+
+#seven{
+
+    position: absolute;
+    left: 370px;
+    top: 210px;
+    height: 420px;
+    width: 845px;
+    color: black;
+    background: white;
+    border: 1px;
+}
